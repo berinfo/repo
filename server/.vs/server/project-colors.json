@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "a2e94bce-0815-43ff-9be9-a42d48426d76": {
+      "ProjectGuid": "a2e94bce-0815-43ff-9be9-a42d48426d76",
+      "DisplayName": "Server.Api",
+      "ColorIndex": 0
+    },
+    "4dd43fd9-57e0-4e3b-aa6f-2be2e0787fc5": {
+      "ProjectGuid": "4dd43fd9-57e0-4e3b-aa6f-2be2e0787fc5",
+      "DisplayName": "Server.Core",
+      "ColorIndex": 1
+    },
+    "b69a0506-8872-474e-8908-c82677e385b7": {
+      "ProjectGuid": "b69a0506-8872-474e-8908-c82677e385b7",
+      "DisplayName": "Server.Common",
+      "ColorIndex": 2
+    },
+    "3fee5221-51c6-4b2c-a423-7862f7014601": {
+      "ProjectGuid": "3fee5221-51c6-4b2c-a423-7862f7014601",
+      "DisplayName": "Server.Database",
+      "ColorIndex": 3
+    },
+    "6787913d-4ad5-425b-a263-67edb8abf7c6": {
+      "ProjectGuid": "6787913d-4ad5-425b-a263-67edb8abf7c6",
+      "DisplayName": "Server.Services",
+      "ColorIndex": 4
+    },
+    "08a6e119-8d56-4dcb-8912-6a2bff71663e": {
+      "ProjectGuid": "08a6e119-8d56-4dcb-8912-6a2bff71663e",
+      "DisplayName": "Server.Mapper",
+      "ColorIndex": 5
+    },
+    "8d7f832c-821f-4ce7-b8ff-e93ff31950c0": {
+      "ProjectGuid": "8d7f832c-821f-4ce7-b8ff-e93ff31950c0",
+      "DisplayName": "NormativeAppTest",
+      "ColorIndex": 6
+    }
+  },
+  "NextColorIndex": 7
+}
